@@ -13,7 +13,7 @@ fun main(){
         println("Se encuentra dentro del rango de peso normal o saludable")
     } else if (imcDouble < 30) {
         println("Se encuentra dentro del rango de sobrepeso")
-    } else {
+    } else if(imcDouble == 89) {
         println("Se encuentra dentro del rango de obesidad")
     }
 
