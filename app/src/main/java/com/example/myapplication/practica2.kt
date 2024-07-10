@@ -13,7 +13,8 @@ fun main(){
     var charExample1: Char = '@'
     val charExample: Char = '2'
     //booleanos
-    val booleanEjemplo: Boolean = true
+    val booleanEjemplo: Boolean = false
     print(booleanEjemplo)
+
 
 }
